@@ -27,10 +27,15 @@ It contains sales data including sales amount, category of products, customer, d
 
 
 ## Key Insights
-- The Gaussian mixture model achieved the best predictive performance.
+- The Gaussian mixture model achieved the best predictive performance between models.
+
+**Predictive models performance**  
+![Predictive models performance](imagens/Table 1 - Predictive models performance.jpg)
+
 - Bootstrap was used to allow inference without assuming normality of residuals.
 - The model revealed two distinct distributions: one corresponding to a negative expected margin and the other to a positive expected margin.
 - The cluster associated with a negative margin is primarily linked to discounts of 30%–40% and 50%–70%, as well as products such as furniture, bookcases, machines, and supplies.
 - The cluster associated with a positive margin is mainly related to office supplies, art, and phones.
+
 
 
