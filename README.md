@@ -30,10 +30,16 @@ It contains sales data including sales amount, category of products, customer, d
 - The Gaussian mixture model achieved the best predictive performance between models.
 
 **Predictive models performance**  
-![Predictive models performance](imagens/Table 1 - Predictive models performance.jpg)
+![Predictive models performance](imagens/Table1_Predictive_models_performance.jpg)
 
 - Bootstrap was used to allow inference without assuming normality of residuals.
-- The model revealed two distinct distributions: one corresponding to a negative expected margin and the other to a positive expected margin.
+
+- The model revealed two distinct distributions: one corresponding to a negative expected
+margin and the other to a positive expected margin.
+
+**Expected profit per cluster**
+![Expected profit per cluster](imagens/Graphic7_Bootstrap_expected_profit.jpg)
+
 - The cluster associated with a negative margin is primarily linked to discounts of 30%–40% and 50%–70%, as well as products such as furniture, bookcases, machines, and supplies.
 - The cluster associated with a positive margin is mainly related to office supplies, art, and phones.
 
