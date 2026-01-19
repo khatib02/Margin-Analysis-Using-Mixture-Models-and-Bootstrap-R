@@ -1,3 +1,5 @@
+🇧🇷 Projeto disponível em português [aqui](README_pt.md)
+
 # Profitability and Risk Segmentation in Retail
 
 ## Overview
